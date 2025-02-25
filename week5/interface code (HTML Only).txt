@@ -1,0 +1,92 @@
+<html>
+
+<head>
+ <title>Heart Disease Prediction System </title>
+ 
+      <h1 a href="index.html">Heart Disease Prediction System</a></h1>
+
+        <ul>
+          <li><a  href="#Home">Home</a></li>
+          <li><a  href="#about">About</a></li>
+          <li><a  href="#services">Services</a></li>
+          <li><a  href="#services">contact</a></li>
+          
+           <h1>Welcome to HDPS</h1>
+      <h2>We are aiming to enhance the quality of life</h2>
+   
+      
+      <h3>Why Choose HDPS?</h3>
+              <p>We provide to you the best choiches for you. Adjust it to your health needs and make sure your undergo treatment with our highly qualified doctors you can consult with us which type of service is suitable for your health
+        
+                    <h4>Smart Diagnosis</h4>
+                    <p>We provide access to your symptom results through our machine learning model.</p>
+                  
+                    <h4>Health Related Services</h4>
+                    <p>We provide a range of health-related services, ensuring comprehensive care for all your needs.</p>
+                  
+                
+                    <h4>Data Privacy</h4>
+                    <p>We provide assurance that your sensitive data will be kept private and secure.</p>
+           
+           <h3>Motaivation</h3>
+            <p>Heart disease is a leading global cause of mortality, and early detection is crucial for effective treatment. However, many individuals with low-risk symptoms may not seek medical attention, leading to missed opportunities for intervention. Our Heart Disease Prediction System addresses this challenge by providing a simple, accessible way to assess heart disease risk.</p>
+
+              <a href="">Free Of Charge</a>
+              <p>Our solution is accessible to everyone, free of charge. We believe that everyone should have the opportunity to assess their risk of heart disease without financial barriers.</p>
+            </div>
+
+             <a href="">The orgin of the idea</a>
+              <p>the ideas was inspired by the pressing need to combat heart disease prediction. Focused on early detection,  to help individuals assess their risk of heart disease conveniently.</p>
+            </div>
+
+              <a href="">WorldWide</a>
+              <p>Our solution is designed to be accessible worldwide, offering its benefits to communities everywhere.</p>
+              
+              <h2>Services</h2>
+          <p>We provide to you the best choiches for you. Adjust it to your health needs and make sure your undergo treatment with our highly qualified doctors you can consult with us which type of service is suitable for your health.</p>
+       
+
+              <h4><button class="button" >Enter Symptoms</button></h4>
+              <p>Log and describe physical or mental indications or changes in health to assist in diagnosis and treatment by AI.</p>
+
+              <h4><button class="button" >Medical Record</button></h4>
+              <p>A comprehensive documentation of an individual's health information.</p>
+
+              <h4><button class="button" >Search doctor</button></h4>
+              <p>Verify with a doctor from very well trusted hospitals.</p>
+
+              <h4><button class="button">Ai Doctor</button></h4>
+              <p>An interactive chat bot designed to simulate conversation with human users.</p>
+
+              <h4><button class="button" >BMI</button></h4>
+              <p>A measure of body fat based on height and weight, used to categorize individuals into classes.</p>
+            
+
+              <h4><button class="button"> Emergency Call</button></h4>
+              <p>Receive immediate medical attention for urgent health issues, ensuring timely and critical care.</p>
+              
+             
+            <h2>AI Doctor</h2>
+        <ul>
+            <li>
+                <p>Hi there 👋<br>How can I help you today?</p>
+            </li>
+        </ul>
+            <textarea placeholder="Enter a message..." spellcheck= required></textarea>
+              
+              <h2>Contact</h2>
+          <p>Contact us for any question.</p>
+
+
+                <h4>Location:</h4>
+                <p>QU, Qassim,, KSA</p>
+           
+
+                <h4>Email:</h4>
+                <p>HeartDiseasePrediction@gmail.com</p>
+            
+
+                <h4>Call:</h4>
+                <p>016 301 1111</p>
+          
+</html>
